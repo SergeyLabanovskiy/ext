@@ -24,7 +24,8 @@
       "@types/jest",
       "@types/lodash",
       "rancher",
-      "shell"
+      "shell",
+      "jest"
     ],
     "lib": [
       "esnext",
